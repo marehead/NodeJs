@@ -1,6 +1,6 @@
 # node-praticas-notes
 
-**comandos do node no terminal**
+- comandos do node no terminal
 
 node -v (ver se node está instalado e ver versão)
 
