@@ -1,4 +1,4 @@
-# node-praticas-notes
+# node-practice-studies
 
 - comandos do node no terminal
 
