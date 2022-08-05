@@ -1,0 +1,23 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "projeto p treinar e iniciar no node ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mlopezlr/node-praticas.git"
+  },
+  "keywords": [
+    "javascript;node"
+  ],
+  "author": "Marina L",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mlopezlr/node-praticas/issues"
+  },
+  "homepage": "https://github.com/mlopezlr/node-praticas#readme"
+}
